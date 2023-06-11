@@ -1,3 +1,10 @@
+/*********************************************************************
+CREATED BY ADAFRUIT INDUSTRIES
+COPIED FOR USE BY ERIC MARGADONNA
+
+https://github.com/adafruit/Adafruit_BluefruitLE_nRF51/blob/master/examples/healththermometer/BluefruitConfig.h
+*********************************************************************/
+
 // COMMON SETTINGS
 // ----------------------------------------------------------------------------------------------
 // These settings are used in both SW UART, HW UART and SPI mode

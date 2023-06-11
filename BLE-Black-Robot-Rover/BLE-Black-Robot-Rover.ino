@@ -14,6 +14,8 @@
  any redistribution
 *********************************************************************/
 
+// Modified by Eric Margadonna - 2018
+
 #include <Arduino.h>
 #include <Adafruit_BLE.h>
 #include <Adafruit_BluefruitLE_SPI.h>
