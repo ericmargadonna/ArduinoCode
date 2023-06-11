@@ -1,3 +1,10 @@
+/*************************************
+CREATED BY ADAFRUIT INDUSTRIES
+COPIED FOR USE BY ERIC MARGADONNA
+
+https://github.com/adafruit/Adafruit_nRF52_Arduino/blob/master/libraries/Bluefruit52Lib/examples/Peripheral/controller/packetParser.cpp
+*************************************/
+
 #include <Adafruit_BLE.h>
 
 #define PACKET_ACC_LEN                  (15)
